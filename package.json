@@ -33,5 +33,13 @@
     "postcss-px-to-vw": "^1.0.1",
     "to": "^0.2.9",
     "update": "^0.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjy93k/javascriptPractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kjy93k/javascriptPractice/issues"
+  },
+  "homepage": "https://github.com/kjy93k/javascriptPractice#readme"
 }
